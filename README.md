@@ -2,7 +2,7 @@
 
 The purpose of this application is to allow travelers to check the weather of different cities, in order to plan a trip accordingly!
 
-Live Link: 
+Live Link: https://zoyasarow.github.io/Weather-Dashboard/
 
 This Weather Application has the following functionality:
   * An active display of date & time 
