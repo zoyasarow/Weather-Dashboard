@@ -1,0 +1,179 @@
+body {
+    background-image: url(./images/istockphoto-1327185011-170667a.jpeg);
+    background-repeat: no-repeat;
+    background-size: 300%;
+    font-family: 'Akshar', sans-serif;
+    display: block;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    background-image: url(./images/istockphoto-1327185011-170667a.jpeg);
+    background-repeat: no-repeat;
+    background-size: 480%;
+}
+
+.current-date-time {
+    display: flex;
+    flex-direction: row;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin-left: 20px;
+}
+
+#city-srch {
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: black;
+}
+
+#city-button {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 18px;
+    background-color: rgb(79, 133, 234);
+    color: white;
+}
+
+#city-button:hover {
+    border-style:outset;
+    border-color: white;
+}
+
+.historyStyling {
+    font-size: 18px;
+    width: 15px;
+    
+}
+
+.weather-info-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 280px;
+    margin-top: -100px;
+    margin-right: 60px;
+    background-image: url(./images/istockphoto-1327185011-170667a.jpeg);
+    background-size: 250%;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.nameStyling {
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: rgb(79, 133, 234);
+    font-size: 40px;
+}
+
+.tempStyling, .humidityStyling, .windStyling {
+    padding-left: 10px;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    font-size: 23px;
+}
+
+.timeStyling {
+    margin-left: 10px;
+    color: rgb(79, 133, 234);
+}
+
+.current-date-time {
+    margin-top: -45px;
+}
+
+.iconStyling {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -10px;
+    width: 60px;
+    height: 60px;
+}
+
+.uviStyling {
+    font-size: 20px;
+}
+
+.low-risk {
+    background-color: rgb(86, 173, 86);
+    width: 120px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.mod-risk {
+    background-color: rgb(196, 207, 92);
+    width: 120px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.high-risk {
+    background-color: rgb(207, 92, 92);
+    width: 120px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.five-forecast-title {
+    margin-left: 280px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.five-day-forecast-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 280px;
+    margin-right: 60px;
+    margin-top: -15px;
+    margin-bottom: 200px;
+}
+
+.daily-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-image: url(./images/istockphoto-1327185011-170667a.jpeg);
+    background-size: 650%;
+    border-radius: 8px;
+    padding:5px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.date-styling {
+    font-size: 20px;
+}
+
+.icon-styling {
+    margin-top: -20px;
+    width: 60px;
+    height: 60px;  
+}
+
+.temp-styling, .humidity-styling, .wind-styling {
+    padding-left: 10px;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    font-size: 17px;
+}
+
+
+
+
