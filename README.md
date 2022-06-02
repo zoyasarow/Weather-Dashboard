@@ -24,3 +24,8 @@ This Weather Application has the following functionality:
       * and the days perdicted uv index
      
   * When cities are searched, they are logged into local storage & printed under the search bar to create a history of cities searched!
+
+
+
+https://user-images.githubusercontent.com/101853202/171563119-67f24fa2-a085-47ee-ac03-a1528769cd86.mp4
+
